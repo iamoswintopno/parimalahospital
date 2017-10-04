@@ -9,7 +9,7 @@
 							<div class="widget-icon"></div>
 							<div class="widget-title">Parimala Health Care</div>
 							<ul>
-								<li>The healthcare verticals of the company span diagnostics, primary care, day care specialty and hospitals, with an asset base in 5 countries, many of which represent the fastest-growing healthcare delivery markets in the world. </li>
+								<li>The healthcare and verticals of the company span diagnostics, primary care, day care specialty and hospitals, with an asset base in 5 countries, many of which represent the fastest-growing healthcare delivery markets in the world. </li>
 								
 								<li>Parimala Healthcare is driven by the vision of becoming a global leader in the integrated healthcare delivery space and the larger purpose of saving and enriching lives through clinical excellence.</li>
 							</ul>
