@@ -9,7 +9,11 @@
 							<div class="widget-icon"></div>
 							<div class="widget-title">Parimala Health Care</div>
 							<ul>
+<<<<<<< HEAD
 								<li>The healthcare verticals of the company span diagnostics, primary care, day care specialty and hospitals, with an asset base in 5 countries, many of which represent the fastest-growing healthcare delivery markets in the world. </li>
+=======
+								<li>The healthcare and verticals of the company span diagnostics, primary care, day care specialty and hospitals, with an asset base in 5 countries, many of which represent the fastest-growing healthcare delivery markets in the world. </li>
+>>>>>>> e7396e73d1fbb169f25c95a33d5024403eab6325
 								
 								<li>Parimala Healthcare is driven by the vision of becoming a global leader in the integrated healthcare delivery space and the larger purpose of saving and enriching lives through clinical excellence.</li>
 							</ul>
@@ -90,4 +94,8 @@
 			
 			<!-- copyrights -->
 			<div class="copyrights">Copyright © 2014 Parimala Health Care Services | Website developed and maintained by <a href="http://www.migids.com/" title="Migids Software, Bangalore" target="_blank">Migids Software LLP, Bangalore</a></div>
+<<<<<<< HEAD
 			<!--/ copyrights -->
+=======
+			<!--/ copyrights -->
+>>>>>>> e7396e73d1fbb169f25c95a33d5024403eab6325
